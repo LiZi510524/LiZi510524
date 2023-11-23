@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiZi
 - 👀 I’m interested in computer and digital products...
-- 🌱 I’m currently learning C##
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on learninhg together
 - 📫 How to reach me QQ 2278894087 or emile 2278894087@qq.com
 
